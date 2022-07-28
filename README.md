@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+After cloning the repo, use command "npm install" or "yarn" in your terminal to install node modules.
+Then only you will be able to run "npm start" or "yarn start"
+
+
 ## Available Scripts
 
 In the project directory, you can run:
